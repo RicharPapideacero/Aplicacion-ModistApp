@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "881374809190",
+    "project_id": "modistapp-787c7",
+    "storage_bucket": "modistapp-787c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881374809190:android:356e5e7c1758f06701f1a7",
+        "android_client_info": {
+          "package_name": "com.example.modistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881374809190-a93f6vbu8d726n7erh4bqi6nb251pl11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Ph89a0jXGKjGihJZobK0bfz2aKsPM9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881374809190-a93f6vbu8d726n7erh4bqi6nb251pl11.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881374809190-52a08p6e719prg1seu9hd76lcqgeahrj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.modistapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
